@@ -20,6 +20,7 @@ DB({
 });
 
 const configRouter = require('./src/routes/configRoute');
+const oauthRouter = require('./src/routes/oauthRoute');
 
 util.setDebug(true);
 
@@ -35,6 +36,7 @@ app.use(cookieParser());
 // routes(app);
 
 app.use('/configs', configRouter);
+app.use('/tokens', oauthRouter);
 
 app.listen(port);
 

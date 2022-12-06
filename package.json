@@ -21,7 +21,7 @@
     "express": "^4.17.1",
     "lodash": "^4.17.21",
     "morgan": "^1.9.1",
-    "qs": "^6.9.1"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"

@@ -24,7 +24,7 @@
     "qs": "^6.11.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.20"
   },
   "author": "Aditya Pant",
   "license": "ISC"

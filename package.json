@@ -15,13 +15,13 @@
     "better-sqlite3": "^5.4.3",
     "better-sqlite3-helper": "^2.2.1",
     "bluebird": "^3.7.2",
-    "body-parser": "^1.19.0",
-    "cookie-parser": "^1.4.4",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "lodash": "^4.17.21",
     "morgan": "^1.9.1",
-    "qs": "^6.9.1"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
